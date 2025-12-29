@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VocalizeWeb Marketing",
+  "description": "A professional marketing website for a SaaS Voice-to-Voice AI Assistant, featuring enterprise-grade UI/UX and an embedded live AI demo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
